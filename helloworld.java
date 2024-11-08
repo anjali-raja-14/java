@@ -3,3 +3,6 @@ class Firstclass{
         System.out.print("helloworld");
     }
 }
+
+// output-
+// helloworld
