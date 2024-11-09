@@ -12,3 +12,8 @@ public class sum_diff
 
     }
 }
+// output-
+// 40
+// 10
+// 50
+// 30

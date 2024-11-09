@@ -8,3 +8,7 @@ public class input {
 
     }
 }
+
+// output-
+// Ram kumar
+// Ram kumar

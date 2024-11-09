@@ -11,3 +11,8 @@ public class variables
         System.out.println(a);
     }
 }
+
+// output-
+// Anjali raja
+// 65.89
+// 8
